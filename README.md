@@ -1,0 +1,2 @@
+# etheren
+Etheren Miner
